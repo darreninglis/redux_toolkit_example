@@ -1,2 +1,2 @@
-# redux_toolkit_example
- Quick demo of using Redux Toolkit
+# Redux Toolkit Example
+ Quick demo of Redux Toolkit
